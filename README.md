@@ -1,4 +1,4 @@
-# TFG-mixed-models
+# TFG-gasto-vivienda-IGE
 
 En este repositorio se encuentra mi Trabajo de Fin de Grado para el GCED, en la Facultad de Informática da Coruña.
 Los datos a tratar se pueden encontrar en el IGE y contienen información sobre el gasto de las viviendas gallegas en cuanto al alquiler o hipoteca (Enquisa estrutural a fogares. Módulo xeral. Edición 2024):
