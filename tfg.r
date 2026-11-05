@@ -1,0 +1,5 @@
+# setwd("~/Escritorio/GCED/Q8/TFG/")
+
+data.filename <- "datos/MICRODAT_2024_VIV_XERAL_M2.txt"
+datos <- read.delim2(data.filename, sep=";")
+datos
